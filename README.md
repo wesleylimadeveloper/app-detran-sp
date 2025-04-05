@@ -30,10 +30,10 @@ Pré-requisitos: NPM/ Yarn
 
 ```Bash
 Clonar repositório:
-https://github.com/wesleylimadeveloper/find-github-repository.git
+https://github.com/wesleylimadeveloper/app-detran-sp.git
 
 Entrar na pasta do projeto:
-cd find-github-repository
+cd app-detran-sp
 
 Instalar dependências:
 npm install ou yarn install
